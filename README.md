@@ -31,7 +31,7 @@ MERN stack Developer | DSA in JAVA | AI/ML & Data Science Enthusiast | ML Projec
   **Notebook Modeler**
   Implemented machine learning workflows in Kaggle notebooks, including data cleaning, feature engineering, model training, and evaluation.
 
-- ![Kaggle Badge](inbox_1488634_525c42374b51a206c1974b65915b5fde_Badge.png)
+- ![Kaggle Badge](inbox_1488634_525c42374b51a206c1974b65915b5fde_Badge-20.svg)
   **Linked Model Creator**
   Connected and utilized external models from GitHub/cloud platforms in Kaggle, showcasing integration and deployment capabilities.
 

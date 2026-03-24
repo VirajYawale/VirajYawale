@@ -21,4 +21,14 @@ MERN stack Developer | DSA in JAVA | AI/ML & Data Science Enthusiast | ML Projec
 ---
 [![](https://visitcount.itsvg.in/api?id=VirajYawale&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏅 Kaggle Achievements
+
+- **Model Creator**  
+  Developed and published machine learning models on Kaggle using real-world datasets, demonstrating end-to-end model development skills.
+
+- **Notebook Modeler**  
+  Implemented machine learning workflows in Kaggle notebooks, including data cleaning, feature engineering, model training, and evaluation.
+
+- **Linked Model Creator**  
+  Connected and utilized external models from GitHub/cloud platforms in Kaggle, showcasing integration and deployment capabilities.
+

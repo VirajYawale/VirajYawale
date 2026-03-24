@@ -24,7 +24,7 @@ MERN stack Developer | DSA in JAVA | AI/ML & Data Science Enthusiast | ML Projec
 ## 🏅 Kaggle Achievements
 
 - **Model Creator**
-  ![Kaggle Badge]()
+  ![Kaggle Badge](1.svg)
   Developed and published machine learning models on Kaggle using real-world datasets, demonstrating end-to-end model development skills.
 
 - **Notebook Modeler**
